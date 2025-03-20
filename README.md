@@ -4,5 +4,5 @@ I am a fullstack software engineer from Polandia- ? Working on multiple frontend
 <br> Expertise <br>
 <img align="left" alt="php" src="https://img.shields.io/badge/php-114D7B"/>
 <br>
-<img align="left" alt="JS" src="https://img.shields.io/badge/JS-white&style=for-the-badge&logo=JS&logoColor=yellow"/>
+<img align="left" alt="JS" src="https://img.shields.io/badge/JS-white.svg&style=for-the-badge&logo=JS&logoColor=yellow"/>
 <br>
